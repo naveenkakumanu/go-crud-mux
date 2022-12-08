@@ -9,5 +9,4 @@ func main() {
 	log.Println("TODO APP")
 
 	routes.Router()
-
 }
